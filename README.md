@@ -28,3 +28,8 @@
    5. Graph by MPAndroidChart
    
    6. Layout (Linearlayout)
+
+### 3. SCREENSHOTS OF _BubbleTea_ APPLICATION
+![alt text](https://i.postimg.cc/Hn4N5CX4/login.png)
+![alt text](https://i.postimg.cc/7619tnhq/dettail.png)
+![alt text](https://i.postimg.cc/qqRKcsCb/Untitled-3.png)
