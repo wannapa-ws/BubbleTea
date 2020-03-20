@@ -1,0 +1,76 @@
+{
+  "recipes": [
+    {
+      "name": "Almond milk tea",
+      "image": "https://static.vecteezy.com/system/resources/previews/000/647/428/non_2x/hazelnut-bubble-tea-pearl-milk-tea-vector-illustration.jpg",
+      "price": "45 Baht",
+      "sweet": "2",
+      "volume": "16 oz",
+      "calories": "346 cal"
+    },
+    {
+      "name": "Bubble milk tea",
+      "image": "https://static.vecteezy.com/system/resources/previews/000/647/378/non_2x/bubble-tea-or-pearl-milk-tea-vector-illustration.jpg",
+      "price": "45 Baht",
+      "sweet": "2",
+      "volume": "16 oz",
+      "calories": "160 cal"
+    },
+    {
+      "name": "Cantaloupe tea",
+      "image": "data:image/jpeg;base64,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",
+      "price": "40 Baht",
+      "sweet": "3",
+      "volume": "32 oz",
+      "calories": "352 cal"
+    },
+    {
+      "name": "Bubble green tea",
+      "image": "https://thumbs.dreamstime.com/b/print-137573388.jpg",
+      "price": "45 Baht",
+      "sweet": "2",
+      "volume": "16 oz",
+      "calories": "231 cal"
+    },
+    {
+      "name": "Bubble Nestea",
+      "image": "https://images.assetsdelivery.com/compings_v2/momoforsale/momoforsale2001/momoforsale200100021.jpg",
+      "price": "35 Baht",
+      "sweet": "3",
+      "volume": "32 oz",
+      "calories": "325 cal"
+    },
+    {
+      "name": "Cocoa milk tea",
+      "image": "https://us.123rf.com/450wm/oyosunan/oyosunan1908/oyosunan190800068/128699467-the-bubble-milk-tea-black-pearl-milk-tea-is-famous-drink-large-and-small-cup-vector-.jpg?ver=6",
+      "price": "35 Baht",
+      "sweet": "1",
+      "volume": "16 oz",
+      "calories": "278 cal"
+    },
+    {
+      "name": "Chocalate milk",
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/000/647/363/small/BUBBLE_TEA-30.jpg",
+      "price": "35 Baht",
+      "sweet": "3",
+      "volume": "16 oz",
+      "calories": "282 cal"
+    },
+    {
+      "name": "Taiwan milk tea",
+      "image": "https://static.vecteezy.com/system/resources/previews/000/647/365/non_2x/bubble-tea-or-pearl-milk-tea-vector-illustration.jpg",
+      "price": "35 Baht",
+      "sweet": "3",
+      "volume": "16 oz",
+      "calories": "278 cal"
+    },
+    {
+      "name": "Taro milk tea",
+      "image": "https://us.123rf.com/450wm/oyosunan/oyosunan1908/oyosunan190800070/128699457-stock-vector-the-bubble-milk-tea-black-pearl-milk-tea-is-famous-drink-large-and-small-cup-vector-.jpg?ver=6",
+      "price": "45 Baht",
+      "sweet": "3",
+      "volume": "32 oz",
+      "calories": "278 cal"
+    }
+  ]
+}

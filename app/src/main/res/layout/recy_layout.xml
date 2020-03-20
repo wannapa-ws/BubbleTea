@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/recyview_layout"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="170dp"
+    android:scaleType="fitXY"
+    android:background="#00DAD4E4">
+
+    <ImageView
+        android:id="@+id/imgV"
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/ic_launcher"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <TextView
+            android:id="@+id/tv_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="36dp"
+            android:text="name"
+            android:textColor="#725E95"
+            android:textSize="26sp"/>
+        <TextView
+            android:id="@+id/tv_price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_name"
+            android:text="price"
+            android:textColor="#FFC107"
+            android:textSize="40sp"/>
+        <TextView
+            android:id="@+id/tv_sweet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="sweet"
+            android:layout_below="@id/tv_price"
+            android:layout_marginTop="200dp"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp"/>
+        <TextView
+            android:id="@+id/tv_volume"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_sweet"
+            android:text="volume"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp"/>
+        <TextView
+            android:id="@+id/tv_calories"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="calories"
+            android:layout_below="@id/tv_volume"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp"/>
+
+
+    </RelativeLayout>
+
+</LinearLayout>
