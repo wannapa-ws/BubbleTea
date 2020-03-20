@@ -32,5 +32,5 @@
    
 ### 3. SCREENSHOTS OF _BubbleTea_ APPLICATION
 
-![alt text](https://www.picz.in.th/image/QxlTlV)
-![alt text](https://www.picz.in.th/image/QxltGQ)
+![alt text](https://www.picz.in.th/image/QxlTlV.png)
+![alt text](https://uppic.cc/v/6fib)
